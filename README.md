@@ -19,7 +19,7 @@ Baixe e abra o arquivo _"bhaskara.py"_ em um interpretador de python para execut
 ## Tecnologia Utilizada
 
 <div style="display: inline_block" align="center"><br>
-  <center><img align="center" alt="React Native" height="100" width="100" src="https://user-images.githubusercontent.com/121250213/233273890-e16f59f2-2305-4710-a9f1-fb90a59e8591.png">
+  <center><img align="center" alt="Python" height="100" width="100" src="https://user-images.githubusercontent.com/121250213/233273890-e16f59f2-2305-4710-a9f1-fb90a59e8591.png">
   </center>
 </div>
 
